@@ -1,0 +1,86 @@
+==================================================
+ System report
+==================================================
+Student full name : Naukhan Bagdat
+Date and time     : 2026-10-29 19:44:16 +05
+Current username  : bagdat
+Hostname          : MacBook-Neo-Kazbek.local
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+Kernel            : Darwin 27.0.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 1,75 2,88 9,51
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 47%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4590.
+Pages active:                                 113956.
+Pages inactive:                               115979.
+Pages speculative:                               622.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk2s1s1   228Gi    13Gi    26Gi    33%    484k  275M    0%   /
+/dev/disk2s6     228Gi   1,0Gi    26Gi     4%       1  275M    0%   /System/Volumes/VM
+/dev/disk2s2     228Gi    11Gi    26Gi    29%    1,0k  275M    0%   /System/Volumes/Preboot
+/dev/disk2s4     228Gi    26Mi    26Gi     1%     109  275M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      39  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk2s5     228Gi   176Gi    26Gi    88%    2,2M  275M    1%   /System/Volumes/Data
+/dev/disk2s3     228Gi   1,8Gi    26Gi     7%      73  275M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 26Gi of 228Gi (88% used) on /System/Volumes/Data
+
+==================================================
+ System report
+==================================================
+Student full name : Naukhan Bagdat
+Date and time     : 2026-10-29 19:44:16 +05
+Current username  : bagdat
+Hostname          : MacBook-Neo-Kazbek.local
+
+--- Operating system and kernel ---
+ProductName:		macOS
+ProductVersion:		27.0.1
+BuildVersion:		26A434
+Kernel            : Darwin 27.0.0 (arm64)
+
+--- CPU ---
+Model             : Apple A18 Pro
+Cores             : 6
+Load average      : 1,75 2,88 9,51
+
+--- Memory ---
+Total RAM         : 8192 MB
+System-wide memory free percentage: 46%
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     4553.
+Pages active:                                 114966.
+Pages inactive:                               113457.
+Pages speculative:                               944.
+
+--- Disk usage ---
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk2s1s1   228Gi    13Gi    26Gi    33%    484k  275M    0%   /
+/dev/disk2s6     228Gi   1,0Gi    26Gi     4%       1  275M    0%   /System/Volumes/VM
+/dev/disk2s2     228Gi    11Gi    26Gi    29%    1,0k  275M    0%   /System/Volumes/Preboot
+/dev/disk2s4     228Gi    26Mi    26Gi     1%     109  275M    0%   /System/Volumes/Update
+/dev/disk1s2     550Mi   6,0Mi   527Mi     2%       1  5,4M    0%   /System/Volumes/xarts
+/dev/disk1s1     550Mi   6,1Mi   527Mi     2%      39  5,4M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     550Mi   6,2Mi   527Mi     2%     884  5,4M    0%   /System/Volumes/Hardware
+/dev/disk2s5     228Gi   176Gi    26Gi    88%    2,2M  275M    1%   /System/Volumes/Data
+/dev/disk2s3     228Gi   1,8Gi    26Gi     7%      73  275M    0%   /Volumes/Recovery
+
+--- Available disk space (home directory) ---
+Available: 26Gi of 228Gi (88% used) on /System/Volumes/Data
+
